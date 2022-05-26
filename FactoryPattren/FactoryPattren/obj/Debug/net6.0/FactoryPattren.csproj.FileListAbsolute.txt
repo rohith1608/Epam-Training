@@ -1,0 +1,15 @@
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\bin\Debug\net6.0\FactoryPattren.exe
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\bin\Debug\net6.0\FactoryPattren.deps.json
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\bin\Debug\net6.0\FactoryPattren.runtimeconfig.json
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\bin\Debug\net6.0\FactoryPattren.dll
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\bin\Debug\net6.0\FactoryPattren.pdb
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.csproj.AssemblyReference.cache
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.AssemblyInfoInputs.cache
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.AssemblyInfo.cs
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.csproj.CoreCompileInputs.cache
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.dll
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\refint\FactoryPattren.dll
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.pdb
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\FactoryPattren.genruntimeconfig.cache
+C:\Users\Rohith\source\repos\FactoryPattren\FactoryPattren\obj\Debug\net6.0\ref\FactoryPattren.dll
